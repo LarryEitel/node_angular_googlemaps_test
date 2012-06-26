@@ -1,9 +1,15 @@
 !!!
-html(ng-app="ofm")
+//html(ng-app="ofm")
+html
   head
-    include /partials/meta
-    include /partials/styles
+    style
+      [ng-cloak] {
+        display: none;
+        }
+
+  include /partials/meta
+  include /partials/styles
 
   body
-    include /partials/navBarTop
-    block body
+  include /partials/navBarTop
+  block body

@@ -1,5 +1,5 @@
 "use strict"
-angular.module("ofm", [ "ofm.filters", "ofm.services", "ofm.directives" ]).config [ "$routeProvider", "$locationProvider", ($routeProvider, $locationProvider) ->
+angular.module("ofm", [ "ofm.filters", "GoogleMaps", "ofm.directives" ]).config [ "$routeProvider", "$locationProvider", ($routeProvider, $locationProvider) ->
   $routeProvider.when("/",
     templateUrl: "partials/home"
   ).when("/map",

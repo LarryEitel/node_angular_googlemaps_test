@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"mo",
+				"module"
+			],
+			[
 				"home",
 				"homeView"
 			],
@@ -84,26 +88,26 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Larry/__prjs/ofm/views/layout.jade",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 199,
+				"buffer_size": 954,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Larry/__prjs/ofm/views/index.jade",
+			"file": "views/partials/map.jade",
 			"settings":
 			{
-				"buffer_size": 1222,
+				"buffer_size": 38,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "public/js/controllers.js",
+			"file": "public/js/services.js",
 			"settings":
 			{
-				"buffer_size": 293,
+				"buffer_size": 390,
 				"line_ending": "Windows"
 			}
 		},
@@ -116,58 +120,10 @@
 			}
 		},
 		{
-			"file": "coffee/app.coffee",
+			"file": "public/js/controllers.js",
 			"settings":
 			{
-				"buffer_size": 375,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "public/js/directives.js",
-			"settings":
-			{
-				"buffer_size": 162,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "public/js/services.js",
-			"settings":
-			{
-				"buffer_size": 88,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "views/partials/scripts.jade",
-			"settings":
-			{
-				"buffer_size": 385,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "views/layout.jade",
-			"settings":
-			{
-				"buffer_size": 140,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "views/index.jade",
-			"settings":
-			{
-				"buffer_size": 97,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "views/partials/map.jade",
-			"settings":
-			{
-				"buffer_size": 28,
+				"buffer_size": 910,
 				"line_ending": "Windows"
 			}
 		}
@@ -175,9 +131,17 @@
 	"build_system": "Packages/CoffeeScript/Commands/CoffeeScript.sublime-build",
 	"command_palette":
 	{
-		"height": 219.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"Package Control: insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: i",
 				"Package Control: Install Package"
@@ -259,7 +223,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 388.0
+		"width": 475.0
 	},
 	"console":
 	{
@@ -276,18 +240,33 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Larry/__prjs/_ajs/angularjs-socketio-node-sample/public/js/controllers.js",
+		"/C/Users/Larry/__prjs/_ajs/angularJS-TwitterSearch/webroot/assets/js/SearchController.js",
+		"/C/Users/Larry/__prjs/a/views/layout.jade",
+		"/C/Users/Larry/__prjs/_ajs/angularJS-TwitterSearch/webroot/TwitterSearch.html",
+		"/C/Users/Larry/__prjs/a/coffee/app.coffee",
+		"/C/Users/Larry/__prjs/a/public/js/directives.js",
 		"/C/Users/Larry/__prjs/a/public/js/directives.js_",
+		"/C/Users/Larry/__prjs/a/public/js/controllers.js",
+		"/C/Users/Larry/__prjs/a/views/partials/scripts.jade",
+		"/C/Users/Larry/__prjs/a/views/index.jade",
+		"/C/Users/Larry/__prjs/a/coffee/widgets.coffee",
+		"/C/Users/Larry/__prjs/_ajs/angularjs-socketio-node-sample/server.js",
+		"/C/Users/Larry/__prjs/_ajs/angularjs-socketio-node-sample/package.json",
+		"/C/Users/Larry/__prjs/ofm/.git/config",
+		"/C/Users/Larry/__prjs/a/views/partials/home.jade",
+		"/C/Users/Larry/__prjs/a/.git/config",
+		"/C/Users/Larry/__prjs/a/views/partials/navBarTop.jade",
+		"/C/Users/Larry/__prjs/ofm/views/layout.jade",
+		"/C/Users/Larry/__prjs/ofm/views/index.jade",
+		"/C/Users/Larry/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Larry/__prjs/a/public/js/services.js",
 		"/C/Users/Larry/__prjs/a/public/js/app.js",
 		"/C/Users/Larry/__prjs/a/public/js/filters.js",
-		"/C/Users/Larry/__prjs/a/views/partials/navBarTop.jade",
-		"/C/Users/Larry/__prjs/a/public/js/services.js",
 		"/C/Users/Larry/__prjs/a/public/css/app.css",
-		"/C/Users/Larry/__prjs/a/views/partials/scripts.jade",
 		"/C/Users/Larry/__prjs/a/public/js/lib/angular/angular-resource.js",
 		"/C/Users/Larry/__prjs/a/public/js/lib/angular/angular-widgets.js",
 		"/C/Users/Larry/__prjs/a/coffee/controllers.coffee",
-		"/C/Users/Larry/__prjs/a/coffee/app.coffee",
-		"/C/Users/Larry/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Larry/__prjs/_ajs/angular-express-blog/public/js/app.js",
 		"/C/Users/Larry/__prjs/a/views/partials/styles.jade",
 		"/C/Users/Larry/__prjs/ofm/public/tpl/TopNavBarView.html",
@@ -301,7 +280,6 @@
 		"/C/Users/Larry/__prjs/a/app.js",
 		"/C/Users/Larry/__prjs/_ajs/angular-express-bootstrap-seed/views/index.jade",
 		"/C/Users/Larry/__prjs/_ajs/angular-express-bootstrap-seed/views/layout.jade",
-		"/C/Users/Larry/__prjs/a/public/js/directives.js",
 		"/C/Users/Larry/__prjs/_ns/ofs/views/partials/partial2.jade",
 		"/C/Users/Larry/__prjs/_ns/ofs/views/partials/partial1.jade",
 		"/C/Users/Larry/__prjs/_ns/ofs/public/js/controllers.js",
@@ -327,7 +305,6 @@
 		"/C/Users/Larry/__prjs/ofm/views/includes/scripts_noroute.jade",
 		"/C/Users/Larry/__prjs/ofm/views/layout_noroute.jade",
 		"/C/Users/Larry/__prjs/ofm/views/login.jade",
-		"/C/Users/Larry/__prjs/ofm/views/layout.jade",
 		"/C/Users/Larry/__prjs/ofm/public/tpl/PageView.html",
 		"/C/Users/Larry/__prjs/node/node-login/app/server/views/layout.jade",
 		"/C/Users/Larry/__prjs/node/node-login/app/server/views/login.jade",
@@ -389,21 +366,8 @@
 		"/C/Users/Larry/__prjs/ofm/views/t.jst.jade",
 		"/C/Users/Larry/__prjs/ofm/views/templates/header.js",
 		"/C/Users/Larry/__prjs/ofm/views/layout.jade____",
-		"/C/Users/Larry/__prjs/ofm/views/index.jade",
 		"/C/Users/Larry/__prjs/ofm/public/index.html",
-		"/C/Users/Larry/__prjs/ofm/public/js/setup.js",
-		"/C/Users/Larry/__prjs/node/express-socket.io-backbone-bootstrap/app.coffee",
-		"/C/Users/Larry/__prjs/node/backbone-directory/web/index.html",
-		"/C/Users/Larry/__prjs/ofm/coffee/main.coffee",
-		"/C/Users/Larry/__prjs/ofm/views/includes/head.jade",
-		"/C/Users/Larry/__prjs/ofm_2/package.json",
-		"/C/Users/Larry/__prjs/ourfield/static/coffee/views/app.coffee",
-		"/C/Users/Larry/__prjs/ourfield/static/coffee/app.coffee",
-		"/C/Users/Larry/__prjs/ourfield/templates/m/base.html",
-		"/C/Users/Larry/__prjs/ofm/public/b.html",
-		"/C/Users/Larry/__prjs/brunch/simple-coffee-skeleton/package.json",
-		"/C/Users/Larry/__prjs/brunch/coffee-script-brunch/package.json",
-		"/C/Users/Larry/__prjs/brunch/brunch/package.json"
+		"/C/Users/Larry/__prjs/ofm/public/js/setup.js"
 	],
 	"find":
 	{
@@ -701,23 +665,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Larry/__prjs/ofm/views/layout.jade",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 199,
+						"buffer_size": 954,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								214,
+								214
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -727,22 +694,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Larry/__prjs/ofm/views/index.jade",
+					"file": "views/partials/map.jade",
 					"settings":
 					{
-						"buffer_size": 1222,
+						"buffer_size": 38,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								36,
+								36
 							]
 						],
 						"settings":
 						{
+							"is_xml": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -755,18 +723,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "public/js/controllers.js",
+					"file": "public/js/services.js",
 					"settings":
 					{
-						"buffer_size": 293,
+						"buffer_size": 390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								100,
+								100
 							]
 						],
 						"settings":
@@ -791,8 +759,8 @@
 						"selection":
 						[
 							[
-								1389,
-								1389
+								0,
+								0
 							]
 						],
 						"settings":
@@ -802,194 +770,30 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 755.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "coffee/app.coffee",
+					"file": "public/js/controllers.js",
 					"settings":
 					{
-						"buffer_size": 375,
+						"buffer_size": 910,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								69,
-								72
+								252,
+								252
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "public/js/directives.js",
-					"settings":
-					{
-						"buffer_size": 162,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								162,
-								162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "public/js/services.js",
-					"settings":
-					{
-						"buffer_size": 88,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14,
-								14
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "views/partials/scripts.jade",
-					"settings":
-					{
-						"buffer_size": 385,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								131,
-								241
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 8,
-					"file": "views/layout.jade",
-					"settings":
-					{
-						"buffer_size": 140,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								140,
-								140
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "views/index.jade",
-					"settings":
-					{
-						"buffer_size": 97,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "views/partials/map.jade",
-					"settings":
-					{
-						"buffer_size": 28,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28,
-								28
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1019,18 +823,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.541368337311,
 			1.0
 		],
 		"rows":
